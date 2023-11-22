@@ -1,0 +1,15 @@
+/Users/halvorsen/Documents/GetAcademy /PP/ViritualPet/ViritualPet/bin/Debug/net7.0/ViritualPet
+/Users/halvorsen/Documents/GetAcademy /PP/ViritualPet/ViritualPet/bin/Debug/net7.0/ViritualPet.deps.json
+/Users/halvorsen/Documents/GetAcademy /PP/ViritualPet/ViritualPet/bin/Debug/net7.0/ViritualPet.runtimeconfig.json
+/Users/halvorsen/Documents/GetAcademy /PP/ViritualPet/ViritualPet/bin/Debug/net7.0/ViritualPet.dll
+/Users/halvorsen/Documents/GetAcademy /PP/ViritualPet/ViritualPet/bin/Debug/net7.0/ViritualPet.pdb
+/Users/halvorsen/Documents/GetAcademy /PP/ViritualPet/ViritualPet/obj/Debug/net7.0/ViritualPet.csproj.AssemblyReference.cache
+/Users/halvorsen/Documents/GetAcademy /PP/ViritualPet/ViritualPet/obj/Debug/net7.0/ViritualPet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/halvorsen/Documents/GetAcademy /PP/ViritualPet/ViritualPet/obj/Debug/net7.0/ViritualPet.AssemblyInfoInputs.cache
+/Users/halvorsen/Documents/GetAcademy /PP/ViritualPet/ViritualPet/obj/Debug/net7.0/ViritualPet.AssemblyInfo.cs
+/Users/halvorsen/Documents/GetAcademy /PP/ViritualPet/ViritualPet/obj/Debug/net7.0/ViritualPet.csproj.CoreCompileInputs.cache
+/Users/halvorsen/Documents/GetAcademy /PP/ViritualPet/ViritualPet/obj/Debug/net7.0/ViritualPet.dll
+/Users/halvorsen/Documents/GetAcademy /PP/ViritualPet/ViritualPet/obj/Debug/net7.0/refint/ViritualPet.dll
+/Users/halvorsen/Documents/GetAcademy /PP/ViritualPet/ViritualPet/obj/Debug/net7.0/ViritualPet.pdb
+/Users/halvorsen/Documents/GetAcademy /PP/ViritualPet/ViritualPet/obj/Debug/net7.0/ViritualPet.genruntimeconfig.cache
+/Users/halvorsen/Documents/GetAcademy /PP/ViritualPet/ViritualPet/obj/Debug/net7.0/ref/ViritualPet.dll
